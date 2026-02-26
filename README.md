@@ -1,5 +1,6 @@
 
 [![DOWNLOAD Evacuate! MC Mod On Curseforge/Modrinth](https://github.com/user-attachments/assets/84466af6-3951-4559-a39d-dc7ebcbd5008)](https://www.curseforge.com/minecraft/mc-mods/evacuate)
+Evacuate! and MSO logo are copyrighted. © 2026 [Po2432](https://github.com/Po2432)
 # Minecraft Yellow!
 Undertale Yellow Stuff In Minecraft? Why Not!
 # Where It Will Be Realesed
